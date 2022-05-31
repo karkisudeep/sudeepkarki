@@ -1,2 +1,1 @@
-import asdf asdf {x} asdf  Adsf asdf a from x;
-import { x } from "x";
+imp asdf asdf ort asda sfa sfdf asdf {x} asdf  Adsf asdf aa sdf  froma sdf a x;
